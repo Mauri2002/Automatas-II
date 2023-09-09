@@ -1,0 +1,10 @@
+Lexema		Token		Repeticiones		Lineas		Valor
+------		-----		------------		------		-----
+Ejemplo		id		1		1 			0.0
+Cuenta		id		4		2 3 6 7 			0.0
+Num		id		2		2 4 			0.0
+Resultado		id		5		5 6 7 8 9 			0.0
+Numero		id		1		6 			0.0
+12		enteros		2		7 8 			12.0
+11		enteros		1		8 			11.0
+1		enteros		1		8 			1.0

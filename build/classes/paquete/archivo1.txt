@@ -1,0 +1,8 @@
+class Materia { 
+int Cuenta,  Num;  
+read ( Num ) ; 
+write (Resultado); 
+Resultado = Numero + Cuenta;
+read ( Num ) ;
+Resultado = Numero + Cuenta;
+} 

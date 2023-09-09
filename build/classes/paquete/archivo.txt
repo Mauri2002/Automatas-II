@@ -1,0 +1,10 @@
+class Ejemplo { 
+int Cuenta,  Num; 
+read (Cuenta); 
+read ( Num ) ; 
+write (Resultado); 
+Resultado = Numero + Cuenta;
+Resultado = 12+Cuenta;
+Resultado = 12+11*1;
+read (Resultado);
+} 

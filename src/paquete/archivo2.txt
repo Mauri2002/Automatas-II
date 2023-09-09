@@ -1,0 +1,5 @@
+class Suma{ 
+int Cuenta,  Num;   
+Resultado = Numero + Cuenta;
+write (Resultado); 
+} 

@@ -1,0 +1,7 @@
+Lexema		Token		Repeticiones		Lineas		Valor
+------		-----		------------		------		-----
+Materia		id		1		1 			0.0
+Cuenta		id		3		2 5 7 			0.0
+Num		id		3		2 3 6 			0.0
+Resultado		id		3		4 5 7 			0.0
+Numero		id		2		5 7 			0.0
