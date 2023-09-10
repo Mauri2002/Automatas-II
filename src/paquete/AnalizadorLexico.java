@@ -426,6 +426,16 @@ public class AnalizadorLexico {
 
         System.out.printf(" |%15s |%15s |%15s |%20s |%10s |%10s |\n", "LEXEMA");
 
+        
+        // Crea una tabla de símbolos vacía
+        Map<String, Integer> symbolTable = new HashMap<>();
+        // Imprime la tabla de símbolos
+        System.out.println("Tabla de símbolos:");
+        for (Map.Entry<String, Integer> entry : symbolTable.entrySet()) {
+        System.out.println(entry.getKey() + ": " + entry.getValue());
+        }
+    
+    }
     }
 }
 /* Después de salir del bucle for, verifica si hay una línea con error y la imprime
